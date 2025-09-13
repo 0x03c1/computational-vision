@@ -1,6 +1,6 @@
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent[1]
+ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "data/raw/FER2013"
 OUT_DIR = ROOT / "data/prepared"
 
