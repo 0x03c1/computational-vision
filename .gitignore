@@ -17,3 +17,6 @@ build/
 *.DS_Store
 /data/raw/FER2013
 /data/
+/runs
+/models
+yolov8n-cls.pt
