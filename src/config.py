@@ -11,7 +11,7 @@ CLASSES = [
     "angry", "disgust", "fear", "happy", "sad", "surprise", "neutral"
 ]
 
-MODEL = 'YOLO'
+MODEL = 'yolo8n-cls.pt'
 EPOCHS = 3
 BATCH = 64
 IMG_SIZE = 224
